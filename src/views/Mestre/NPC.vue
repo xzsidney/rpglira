@@ -1,0 +1,1 @@
+<template><div class="p-8"><h1 class="text-3xl text-vampire">{{ title }}</h1></div></template><script setup>import { ref } from 'vue'; const title = ref('Mestre/NPC.vue');</script>
